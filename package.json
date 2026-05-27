@@ -1,5 +1,5 @@
 {
-  "name": "@yourusername/shuffle-array",
+  "name": "@untitledq/shuffle-array",
   "version": "0.1.0",
   "description": "A small library that takes an array as input and returns a new array that is shuffled.",
   "main": "dist/index.js",
@@ -11,21 +11,16 @@
     "pretest": "npm run build",
     "test": "npx jest --coverage"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yourusername/shuffle-array.git"
-  },
   "keywords": [
     "array",
     "shuffle",
     "functional"
   ],
-  "author": "your name <your-email@email.com> (https://yourwebsite.com)",
+  "author": "Wenhao Wen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/shuffle-array/issues"
+    "url": "https://github.com/WhenWenh/contInt_CI/issues"
   },
-  "homepage": "https://github.com/yourusername/shuffle-array#readme",
   "devDependencies": {
     "jest": "^29.7.0",
     "microbundle": "^0.15.1"

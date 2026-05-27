@@ -1,5 +1,5 @@
 
-# Contributing to @yourusername/shuffle-array
+# Contributing to @untitledq/shuffle-array
 
 > Thank you for your interest in contributing! Your help is greatly appreciated.
 
@@ -26,7 +26,7 @@
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/shuffle-array.git
+   git clone https://github.com//shuffle-array.git
    cd shuffle-array
    ```
 2. **Install dependencies**:
